@@ -10,8 +10,11 @@
 This is our final project for Makers Academy.
 
 
-The goal of this mobile app is to create a todo list and habit manager whereby you can track daily tasks/chores. Your success in completing/failing these tasks will have a direct effect for the monster which you care for, similar to a tamagotchi. Completing tasks will feed the monster, while failing to complete tasks will have a negative effect on your monster.
+The goal of this mobile app is to create a todo list and habit manager whereby you can track daily tasks/chores. Your success in completing/failing these tasks will have a direct effect for the monster which you care for, similar to a tamagotchi. Tick off tasks on your to-do list and watch your very own 'Sassagotchi' grow and give you positive reinforcement, or fail your tasks and watch your creature wither and eventually die, while receiving negative yet sassy feedback! 
 
+## App Demo
+
+<img src='./assets/Sassagotchi-egg-coloured.gif' height='250'><img src='./assets/SasSquash.gif' height='250'> <img src='./assets/SnapSquash.gif' height='250'>
 
 ## To Run This App
 
