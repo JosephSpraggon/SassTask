@@ -14,7 +14,7 @@ The goal of this mobile app is to create a todo list and habit manager whereby y
 
 ## App Demo
 
-<img src='./assets/Sassagotchi-egg-coloured.gif' height='250'><img src='./assets/SasSquash.gif' height='250'> <img src='./assets/SnapSquash.gif' height='250'>
+<img src='./assets/SasSquatch-demo.gif'>
 
 ## To Run This App
 
