@@ -1,8 +1,5 @@
----
 
 <h1 align='center'> SassTask </h1>
-
----
 
 
 <img src='./assets/Sassagotchi-egg-coloured.gif' height='250'><img src='./assets/SasSquash.gif' height='250'> <img src='./assets/SnapSquash.gif' height='250'>
